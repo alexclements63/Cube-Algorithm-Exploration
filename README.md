@@ -11,8 +11,8 @@ To document progress with the cubes and make progress in working with GitHub
    
    ###### Times for the Pyraminx Duo 
    
-   ao5 = 3.09s
-   ao12 = 4.63s
-   ao25 = 5.60s
+   **ao5** = 3.09s
+   **ao12** = 4.63s
+   **ao25** = 5.60s
 
 2. 
