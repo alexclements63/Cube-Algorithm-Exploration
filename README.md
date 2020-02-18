@@ -15,4 +15,13 @@ To document progress with the cubes and make progress in working with GitHub
    **ao12** = 4.63s
    **ao25** = 5.60s
 
-2. 
+2. Pyraminx
+
+   As of February 18th, I *can't* solve the pyraminx as I've never tried.
+   The method I will use is **ADD THIS**/
+   
+   ###### Times for the Pyraminx
+   
+   **ao5** = 
+   **ao12** =
+   **ao25** = 
