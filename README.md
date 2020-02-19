@@ -25,4 +25,11 @@ To document progress with the cubes and make progress in working with GitHub
    **ao5** =    
    **ao12** =      
    **ao25** =     
- 
+
+
+
+
+
+Sources
+
+https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/
