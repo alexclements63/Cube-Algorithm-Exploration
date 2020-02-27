@@ -55,13 +55,13 @@ To document progress with the cubes and make progress in working with GitHub.
    
    These results were recorded after I finished with the first set of averages.  
    
-   **ao5** = 5:15:84   
-   **ao12** = 5:30:21    
+   **ao5** = 5:03:84   
+   **ao12** = 5:10:21    
 
    ###### February 24th   
    
    **ao5** = 4:36:68    
-   **ao12** = 4:40:23   
+   **ao12** = 4:41:23   
    
    ###### February 25th  
     
@@ -76,9 +76,18 @@ To document progress with the cubes and make progress in working with GitHub.
    **ao5** = 0:57:95  
    **ao12** = 1:10:32  
 
+## Thoughts After the First Time Working With the Cubes
+
+###### These are just some of the final thoughts that I have regarding my time working with both the pyraminx and pyraminx duo. 
+
+As someone who, prior to this class, had really never used Rubik's cubes, I didn't know what to expect going into this. While I am disappointed that I didn't have the time to get going on another cube besides the first two, I certainly enjoyed working and playing around with these cubes. To be honest, I didn't think I would actually enjoy it as much as I did, and using the cubes was almost calming in a sense. I was certainly intrigued by the Rubik's cubes at first, and was genuinely interested in trying to learn how to solve them, however, that wasn't consistent throughout the actual process, as it was hard at times, especially when learning how to solve the pyraminx. To be fair though, that is to be expected with just about any project, as there will almost always be things that are harder to do and take a bit more work and thinking to accomplish. 
+
+In terms of the specific cubes I worked with, the pyraminx duo was by far the easiest. I didn't have much trouble at all learning it and understand how to solve it. It was almost automatic after I watched a few different videos on the different methods. It simply made sense to me that you have to just find the set sides for each colour, and simply do the right turns to get them all to line-up, and thus be solved. No matter the day that I picked it up on, I was still able to solve it in less than 5 seconds consistently. 
+
+As for the pyraminx, I had so much more trouble trying to figure out how to solve it. This can be seen through the recorded times I have listed above, and the fact that it took me almost 3 classes to get 25 total solves. Of course, as I went on and got more comfortable, it became much easier for me to solve.  
+
   
-  
-# Sources 
+## Sources 
 
 ##### For Timing
 https://cubingtime.com/
