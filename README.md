@@ -76,14 +76,20 @@ To document progress with the cubes and make progress in working with GitHub.
    **ao5** = 0:57:95  
    **ao12** = 1:10:32  
 
+  
+  
+# Sources 
 
-
-**Sources**
-
+##### For Timing
 https://cubingtime.com/
 
+##### For the Pyraminx Duo
 https://www.youtube.com/watch?v=P-Zt7GEyYuE
+https://www.jaapsch.net/puzzles/pyraduo.htm
 
+##### For the Pyraminx
 https://www.youtube.com/watch?v=YSvbXmU4aHM
+https://www.speedsolving.com/wiki/index.php/Pyraminx_methods
 https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/
-Talking and getting an explanation for the Pyraminx from a classmate, Sam Vrontos
+https://rubiks-cube-solver.com/pyraminx/
+Talking and getting an explanationfrom a classmate, Sam Vrontos
