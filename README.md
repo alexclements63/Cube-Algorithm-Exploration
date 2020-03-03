@@ -84,7 +84,9 @@ As someone who, prior to this class, had really never used Rubik's cubes, I didn
 
 In terms of the specific cubes I worked with, the pyraminx duo was by far the easiest. I didn't have much trouble at all learning it and understand how to solve it. It was almost automatic after I watched a few different videos on the different methods. It simply made sense to me that you have to just find the set sides for each colour, and simply do the right turns to get them all to line-up, and thus be solved. No matter the day that I picked it up on, I was still able to solve it in less than 5 seconds consistently. 
 
-As for the pyraminx, I had so much more trouble trying to figure out how to solve it. This can be seen through the recorded times I have listed above, and the fact that it took me almost 3 classes to get 25 total solves. Of course, as I went on and got more comfortable, it became much easier for me to solve.  
+As for the pyraminx, I had so much more trouble trying to figure out how to solve it. This can be seen through the recorded times I have listed above, and the fact that it took me almost 3 classes to get 25 total solves. Of course, as I went on and got more comfortable, it became much easier for me to solve. I am still not great at it by any means, but if given the time, I can eventually figure it out. It's been challening to me, but I've enjoyed learning it.
+
+Overall, I certainly enjoyed this first assignment and beginning to explore with the cubes.
 
   
 ## Sources 
